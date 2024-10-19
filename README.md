@@ -8,7 +8,6 @@ A simple, interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Th
 - Displays real-time game status (whose turn it is or if someone wins)
 - Reset button to start a new game
 - Minimalist design
-- Responsive layout for different screen sizes
 
 ## Installation
 
